@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="603" height="532" viewBox="0 0 603 532">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="603" height="532" transform="translate(318 730)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.985" y1="0.384" x2="0.001" y2="-0.018" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#daf5f8"/>
+      <stop offset="1" stop-color="#f5fddd"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-318 -730)">
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <g id="stripes-bg" transform="translate(-332.974 726.536)">
+        <g id="Symbol_11_15" data-name="Symbol 11 – 15">
+          <path id="Path_4612" data-name="Path 4612" d="M0,0C31.9-.573,1032,0,1032,0V43S22.346,43.05,0,43-31.9.573,0,0Z" transform="translate(665.648 177.382) rotate(-45)" fill="url(#linear-gradient)"/>
+        </g>
+        <g id="Symbol_11_16" data-name="Symbol 11 – 16" transform="translate(40 110)">
+          <path id="Path_4612-2" data-name="Path 4612" d="M0,0C31.9-.573,1032,0,1032,0V43S22.346,43.05,0,43-31.9.573,0,0Z" transform="translate(665.648 177.382) rotate(-45)" fill="url(#linear-gradient)"/>
+        </g>
+        <g id="Symbol_11_17" data-name="Symbol 11 – 17" transform="translate(192 110)">
+          <path id="Path_4612-3" data-name="Path 4612" d="M0,0C31.9-.573,1032,0,1032,0V43S22.346,43.05,0,43-31.9.573,0,0Z" transform="translate(665.648 177.382) rotate(-45)" fill="url(#linear-gradient)"/>
+        </g>
+        <g id="Symbol_11_18" data-name="Symbol 11 – 18" transform="translate(322 110)">
+          <path id="Path_4612-4" data-name="Path 4612" d="M0,0C31.9-.573,1032,0,1032,0V43S22.346,43.05,0,43-31.9.573,0,0Z" transform="translate(665.648 177.382) rotate(-45)" fill="url(#linear-gradient)"/>
+        </g>
+        <g id="Symbol_11_19" data-name="Symbol 11 – 19" transform="translate(264 295)">
+          <path id="Path_4612-5" data-name="Path 4612" d="M0,0C31.9-.573,1032,0,1032,0V43S22.346,43.05,0,43-31.9.573,0,0Z" transform="translate(665.648 177.382) rotate(-45)" fill="url(#linear-gradient)"/>
+        </g>
+        <g id="Symbol_11_20" data-name="Symbol 11 – 20" transform="translate(416 295)">
+          <path id="Path_4612-6" data-name="Path 4612" d="M0,0C31.9-.573,1032,0,1032,0V43S22.346,43.05,0,43-31.9.573,0,0Z" transform="translate(665.648 177.382) rotate(-45)" fill="url(#linear-gradient)"/>
+        </g>
+        <g id="Symbol_11_21" data-name="Symbol 11 – 21" transform="translate(546 295)">
+          <path id="Path_4612-7" data-name="Path 4612" d="M0,0C31.9-.573,1032,0,1032,0V43S22.346,43.05,0,43-31.9.573,0,0Z" transform="translate(665.648 177.382) rotate(-45)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
